@@ -1,0 +1,4 @@
+sdjkfj 
+aql
+wolaile
+git has a mutable index called stage
